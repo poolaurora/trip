@@ -4,7 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="HandheldFriendly" content="true">
-    <title></title>
+    <title>Trip Eventos - Movidos por história</title>
+    <link rel="shortcut icon" href="/images/fav-icon.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       .animated-lightbox {
@@ -696,10 +697,10 @@
       <div class="row">
         <div class="container ">
           <div id="Zy4pTl3TSge45ci7nyBxwFldSW3lE0wv" class="widget widget-text">
-            <p>alta gastronomia com julio perinetto</p>
+            <p>alta gastronomia com julio bassi</p>
           </div>
           <div id="Mx5Uzf00uVxfNgKffL8qIA6c6l3lUUua" class="widget widget-text">
-            <p>decoração floral com mariana bassi</p>
+            <p>decoração floral com mariana petrona</p>
           </div>
           <img id="crvg8uaXHeiSb1PIggBs7eVF6dQp2MbL" data-original="https://images.assets-landingi.com/uc/3779a2a6-9699-4cd5-bd60-b3f291f4f891/julioperinetto.png" class="widget widget-image lazyloaded" data-srcset="https://cdn.lugc.link/3779a2a6-9699-4cd5-bd60-b3f291f4f891/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/3779a2a6-9699-4cd5-bd60-b3f291f4f891/-/preview/150x150/-/format/auto/ 150w" data-sizes="(max-width: 763px) 150px,   150px" data-src="https://cdn.lugc.link/3779a2a6-9699-4cd5-bd60-b3f291f4f891/-/preview/150x150/-/format/auto/" alt="Image" width="150" height="150" decoding="async" sizes="(max-width: 763px) 150px,   150px" srcset="https://cdn.lugc.link/3779a2a6-9699-4cd5-bd60-b3f291f4f891/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/3779a2a6-9699-4cd5-bd60-b3f291f4f891/-/preview/150x150/-/format/auto/ 150w" src="/images/saved_resource">
           <img src="/images/icon_2435ee0d763d9b6ba15954863ebf6c7cfb64bf44.svg" id="WlIgHklBsJLSuD6nhlNgEG7z8WBhcodc" class="widget widget-svgicon" alt="Icon">
@@ -707,27 +708,13 @@
           <img src="/images/icon_2435ee0d763d9b6ba15954863ebf6c7cfb64bf44.svg" id="zp5I1Rzkqwn7lk8lMWoIo9kFt3R9iJr0" class="widget widget-svgicon" alt="Icon">
           <img id="QaPFykEREZivom9gloVQcgVARD7Lk9Ic" data-original="https://images.assets-landingi.com/uc/acb70e76-bd77-4e78-ab5d-bfba80f0dced/giulianapimenta.png" class="widget widget-image lazyloaded" data-srcset="https://cdn.lugc.link/acb70e76-bd77-4e78-ab5d-bfba80f0dced/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/acb70e76-bd77-4e78-ab5d-bfba80f0dced/-/preview/150x150/-/format/auto/ 150w" data-sizes="(max-width: 763px) 150px,   150px" data-src="https://cdn.lugc.link/acb70e76-bd77-4e78-ab5d-bfba80f0dced/-/preview/150x150/-/format/auto/" alt="Image" width="150" height="150" decoding="async" sizes="(max-width: 763px) 150px,   150px" srcset="https://cdn.lugc.link/acb70e76-bd77-4e78-ab5d-bfba80f0dced/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/acb70e76-bd77-4e78-ab5d-bfba80f0dced/-/preview/150x150/-/format/auto/ 150w" src="/images/saved_resource(2)">
           <div id="Fng57w6FhqvDo0kRyMF8OO4ZUibF8vWT" class="widget widget-text">
-            <p>doces finos com giuliana pimenta</p>
+            <p>doces finos com giuliana alvarenga</p>
           </div>
           <img src="/images/icon_2435ee0d763d9b6ba15954863ebf6c7cfb64bf44.svg" id="abWpurXD9Mgv6OC5M6pmKXfiSPXcVcRt" class="widget widget-svgicon" alt="Icon">
         </div>
       </div>
     </div>
     <div id="wfePwPVRGhVsCnu1hUCThVwrALITLuZx" class="widget widget-section ">
-      <div class="row">
-        <div class="container ">
-          <div id="PPaP6TZ5B7dotEpZzWHzcSrLBZEukbxJ" class="widget widget-text">
-            <p>audiovisual e entretenimento com GB7</p>
-          </div>
-          <img src="/images/icon_2435ee0d763d9b6ba15954863ebf6c7cfb64bf44.svg" id="swP5BWRMNtxoDfOM8C5Zcgd8aeMd71z8" class="widget widget-svgicon" alt="Icon">
-          <img id="xyW6nov2Kkgt17obucO7MxsHPKlsd4IX" data-original="https://images.assets-landingi.com/uc/b5404fb3-0580-4462-a62b-fbd39e877809/Artboard1.png" class="widget widget-image lazyloaded" data-srcset="https://cdn.lugc.link/b5404fb3-0580-4462-a62b-fbd39e877809/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/b5404fb3-0580-4462-a62b-fbd39e877809/-/preview/150x150/-/format/auto/ 150w" data-sizes="(max-width: 763px) 150px,   150px" data-src="https://cdn.lugc.link/b5404fb3-0580-4462-a62b-fbd39e877809/-/preview/150x150/-/format/auto/" alt="Image" width="150" height="150" decoding="async" sizes="(max-width: 763px) 150px,   150px" srcset="https://cdn.lugc.link/b5404fb3-0580-4462-a62b-fbd39e877809/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/b5404fb3-0580-4462-a62b-fbd39e877809/-/preview/150x150/-/format/auto/ 150w" src="/images/saved_resource(3)">
-          <img id="eqB0F5czWT49m2zri5pKS1MSdWG5Az75" data-original="https://images.assets-landingi.com/uc/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/Artboard1copy.png" class="widget widget-image lazyloaded" data-srcset="https://cdn.lugc.link/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/-/preview/150x150/-/format/auto/ 150w" data-sizes="(max-width: 763px) 150px,   150px" data-src="https://cdn.lugc.link/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/-/preview/150x150/-/format/auto/" alt="Image" width="150" height="150" decoding="async" sizes="(max-width: 763px) 150px,   150px" srcset="https://cdn.lugc.link/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/-/preview/150x150/-/format/auto/ 150w,  https://cdn.lugc.link/7fc5bf3e-05ca-4d5f-9433-d3c13b7493f2/-/preview/150x150/-/format/auto/ 150w" src="/images/saved_resource(4)">
-          <img src="/images/icon_2435ee0d763d9b6ba15954863ebf6c7cfb64bf44.svg" id="Eo5dkVAV4iVn0515MGslc6etWXP7X0L1" class="widget widget-svgicon" alt="Icon">
-          <div id="duJ2ABTIq8d21L6aNWCHHVfVnhAAR63q" class="widget widget-text">
-            <p>bar autoral com eleven bar</p>
-          </div>
-        </div>
-      </div>
     </div>
     <div id="VoHEr1f9Ubk3f69y2i2JpQUrkUUnhnnI" class="widget widget-section ">
       <div class="row">
